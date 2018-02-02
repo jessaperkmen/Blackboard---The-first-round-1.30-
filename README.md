@@ -1,2 +1,2 @@
-# Blackboard---The-first-round-1.30-
+# Blackboard
 The project is blackboard first round.Involved in python Spider
